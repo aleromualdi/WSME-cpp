@@ -8,8 +8,8 @@ For a detailed description of the WSME model, refer to [this review](https://www
 
 
 <div style="display: flex; align-items: center;">
-    <img src="img/7URJ.png" alt="Alt Text" width="300">
-    <img src="img/free_energy.png" alt="Another Image" width="550">
+    <img src="img/7URJ.png" alt="Alt Text" width="250">
+    <img src="img/free_energy.png" alt="Another Image" width="500">
 </div>
 
 
